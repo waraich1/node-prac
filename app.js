@@ -99,7 +99,7 @@ app.listen(3000, () => {
 });
 // const axios = require("axios");
 // const request = require("request");
-// const geocode = require("./utils/geocode");
+// const geocde = require("./utils/geocode");
 // const forecast = require("./utils/forecast");
 
 // geocode("Toronto", (error, { latitude, longitude } = {}) => {
